@@ -10,10 +10,7 @@ from datetime import date
 from rois import *
 
 
-
-
 st.set_page_config(layout="wide")
-
 
 hide_streamlit_style = """
             <style>
