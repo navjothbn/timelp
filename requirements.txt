@@ -6,3 +6,4 @@ urllib3==1.26.7
 earthengine-api
 geopandas
 folium
+geemap
